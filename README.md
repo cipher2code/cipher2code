@@ -1,6 +1,7 @@
 # 👋 Hello, I'm @cipher2code
 
-Welcome to my GitHub profile! I'm a recent **Computer Science graduate** from the **Dr. A.P.J. Abdul Kalam Technical University (AKTU) .**, passionate about building and designing web applications. With a strong foundation in **front-end** and **back-end** technologies, I'm eager to contribute to exciting projects and continuously expand my skill set.
+Welcome to my GitHub profile! I'm a **Computer Science** graduate from the **Uttar Pradesh Technical University.**, passionate about building and designing web applications. 
+With a strong foundation in **front-end** and **back-end** technologies, I'm eager to contribute to exciting projects and continuously expand my skill set.
 
 ---
 
@@ -12,19 +13,13 @@ Welcome to my GitHub profile! I'm a recent **Computer Science graduate** from th
 - **Bootstrap** (6 months)
 
 ### Back-End Development:
-- **Java** (1 years)
-- **MySQL** (1.5 years)
+- **Java** (1 year)
+- **SQL** (1 year)
 - **MERN Stack** (7 months):
   - **MongoDB**
   - **Express.js**
   - **React**
   - **Node.js**
-- **Salesforce Developement**
-  - **Apex**
-  - **Lightning Web Component**
-  - **Apex Trigger**
-  - **SOQL**
-  - **SOSL**
 
 ### Additional Expertise:
 - Authentication & Authorization Systems
@@ -58,14 +53,12 @@ I'm constantly exploring new technologies and methodologies to improve my skills
 - 🔑 **Private Repositories**: 0  
 - 🕑 **Time Zone**: Asia/Kolkata  
 - 🐱 **Most Coded Languages**:
-  - JavaScript (50.88%)
-  - HTML (26.32%)
-  - CSS (19.30%)
-  - PHP (3.51%)
+  - JavaScript ()
+  - HTML ()
+  - CSS ()
+  - PHP ()
 
-### Productivity
-- **Most Active Days**: Wednesday  
-- **Preferred Time**: Morning (🌞 32.45% of commits)
+
 
 ---
 
